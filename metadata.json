@@ -1,0 +1,6 @@
+{
+  "name": "WAU International Journal of Engineering and Applied Sciences",
+  "description": "Official portal for WAU International Journal of Engineering and Applied Sciences (WIJEAS), an open access, double-anonymous peer-reviewed quarterly journal published by We Avec U (WAU) Group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
